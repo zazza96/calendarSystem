@@ -1,0 +1,292 @@
+{
+    "20" : {
+        "day": "Fri",
+        "lessons": [
+            {
+                "id" : "74e972fe-381f-4e61-94d2-f4a7299e1ae3",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "659751d1-3df8-4121-b519-17107fe939b8",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "82d35cec-9afc-4361-b420-e72fc1e26f3b",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "c685a245-5f6c-4d61-aa54-3b21802cc56f",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },
+    "21" : {
+        "day" : "Sat",
+        "lessons": [
+            {
+                "id" : "887f1df6-f772-49d7-995a-3a7620f1471d",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "04dfb67f-1c22-40fc-a3ed-911c424aad66",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "1becdd85-55e3-40b1-865f-fbe1df707514",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "3a12b371-1cf9-42bf-afeb-9f3a11feb357",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },
+    "22" : {
+        "day" : "Sun",
+        "lessons": [
+            {
+                "id" : "e7978e86-166c-4066-b50d-129fd5d47029",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "c4d547d7-9a9d-4674-bc21-9b666e76e5d2",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "bcad084b-211d-4baa-bdf5-86befeb4ab16",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "42466729-4af7-4cce-bed0-97e08f673c50",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },
+    "23" : {
+        "day" : "Mon",
+        "lessons": [
+            {
+                "id" : "e54a43b5-d1d6-4567-8606-c2122181b276",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "7a7f8539-d81e-4b35-ac13-79365ad55ca1",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "7715eadb-0095-4f71-adae-fbcfd38f52d2",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "b7a0143a-769f-457e-8136-5eed4654856e",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },   
+     "24" : {
+        "day" : "Tue",
+        "lessons": [
+            {
+                "id" : "d6cc49dc-59c7-4dcb-99a8-5bc8b867b56a",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "6e769f41-3152-4a34-b80e-8d245c522f69",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "b280d4bf-02c0-4ad7-8e1b-fb855c5a0fbe",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "772701ad-db0c-4a0f-ac7e-dc760565f9cb",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },    
+    "25" : {
+        "day" : "Wed",
+        "lessons": [
+            {
+                "id" : "14fb6612-4ac6-47aa-a168-e2a10c518d93",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "484bb2a3-1053-471f-9ac4-04d533302e72",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "e98ec492-4025-493e-b150-d496ec7456b8",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "2fde096c-cb2a-4122-84fd-0726081814ca",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },    
+    "26" : {
+        "day" : "Thu",
+        "lessons": [
+            {
+                "id" : "8f2cd03c-750c-4493-baa3-014a57d0e6e0",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "01f932c7-08ad-477d-9b65-425bed24e0cb",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "cdbf520e-e05b-4f2d-98e3-c4a2ed548dc1",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "1be9d565-89aa-4080-91ce-37fafbb1db71",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },    
+    "27" : {
+        "day" : "Fri",
+        "lessons": [
+            {
+                "id" : "76a91f61-3f1b-4347-92ca-789e06b2fa7f",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "1b711b8a-8819-4db7-8098-6a9ad74067e4",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "c07336b4-ccbd-4604-b490-af1e99b6b5fb",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "ef8fafd3-4798-42c6-803c-42dd1477a557",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },    
+    "28" : {
+        "day" : "Sat",
+        "lessons": [
+            {
+                "id" : "c164a0f1-2895-432d-9ce6-0f4348609dd4",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "13e6018f-4c25-4562-8c9e-11c82159d576",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "5b2d336d-8d99-4fb8-8769-cf41f6f3b473",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "2a41cea4-a644-42f8-80a8-564fd4b22cb5",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    },   
+    "29" : {
+        "day" : "Sun",
+        "lessons": [
+            {
+                "id" : "3d221e25-88ab-4a9b-89bd-f793b0dc9ba5",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 8
+            },
+            {
+                "id" : "af8d9bc5-8f14-48bd-9de3-ff9317cdf2ec",
+                "name" : "Yoga",
+                "time" : "09.45 - 11.00",
+                "spaces": 15
+            },
+            {
+                "id" : "0ec73ca8-90cc-47c8-a9d1-830be9463fd1",
+                "name" : "Boxercise",
+                "time" : "10.30 - 11.30",
+                "spaces": 15
+            },
+            {
+                "id" : "b2e17a81-965b-4f2c-a528-8fcd3ebd8f9d",
+                "name" : "Pilates",
+                "time" : "07.30 - 8.30",
+                "spaces": 15
+            }
+        ]
+    }
+}
