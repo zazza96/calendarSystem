@@ -1,28 +1,35 @@
-.title-heading__container {
-    text-align: center;
-}
+@import "./colors.scss";
 
-.bookstore-title__containter {
-    @media (min-width: 960px) {
-        display: flex;
-        justify-content: center;
-        padding-top: 40px;
-        padding-bottom: 25px;
+header {
+    background-color: black;
+    color: $yellow;
+    padding: 10px 15px;
+    div#profileImage {
+        position: relative;
+        width: 50px;
+        height: 50px;
+        float: left;
+        .profileImageCircle {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: green;
+            color: white;
+        }
     }
-}
 
-.logo {
-    display: none;
-    @media (min-width: 960px) {
-        display: block;
-        font-size: 54px;
-        padding-right: 30px;
+    div#logo {
+        text-align: center;
+        img {
+            max-width: 255px;
+            width: 100%;
+        }
     }
-}
-
-.description__losetext {
-    margin: 25px 0;
-    @media (min-width: 960px) {
-        margin: 50px 0;
+    h1 {
+        font-family: "Poppins",sans-serif;
+        font-size:25px;
     }
 }

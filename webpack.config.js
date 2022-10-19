@@ -8,7 +8,6 @@ const {CleanWebpackPlugin} = require('clean-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const TerserWebpackPlugin = require('terser-webpack-plugin');
 const CssMinimizerWebpackPlugin = require('css-minimizer-webpack-plugin');
-const json = require('./file.json');
 
 // Access the fields to configure webpack
 const pkgVars = require('./package.json');
@@ -136,4 +135,3 @@ if (currentTask === 'build') {
 
 // Export the config object
 module.exports = config;
-

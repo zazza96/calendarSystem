@@ -7,6 +7,9 @@ import '../scss/main.scss';
 // // Own modules
 // import getBooks from './modules/getBooks';
 // import clickBook from './modules/clickBook';
+import createCalendar from './modules/createCalendar';
+
+createCalendar();
 
 // getBooks();
 // clickBook();
