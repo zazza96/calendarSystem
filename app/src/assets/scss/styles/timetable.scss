@@ -1,0 +1,49 @@
+#classes-section {
+    padding: 30px 15px;
+    .class_container {
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 5px 3px 19px -1px rgb(0 0 0 / 25%);
+        margin-bottom: 30px;
+        padding: 20px 15px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .class-time {
+        margin: 20px 0;
+        .time {
+            margin-left: 10px;
+            color: $timetable-grey;
+        }
+    }
+    h3 {
+        margin: 0;
+    }
+    .location {
+        margin: 0;
+        text-transform: uppercase;
+        color: $timetable-grey;
+    
+    }
+    .flex-right {
+        align-self: center;
+    }
+    .spaces {
+        text-align: center;
+        p {
+            margin: 0;
+            font-size: 12px;
+            color: $timetable-grey;
+        }
+    }
+    .booking_btn {
+        background-color: $yellow;
+        border-color: $yellow;
+        border: 1px solid $yellow;
+        padding: 8px 30px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-bottom: 5px;
+    }
+}
+

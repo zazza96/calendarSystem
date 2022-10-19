@@ -1,0 +1,17 @@
+#date-selection {
+    display: flex;
+    border: 1px solid $yellow;
+    background-color: white;
+    justify-content: space-evenly;
+    padding: 5px 15px;
+    .date-container {
+        padding: 5px;
+        font-weight: bold;
+        text-align: center;
+        span {
+            display: block;
+        }    
+    }
+}
+
+

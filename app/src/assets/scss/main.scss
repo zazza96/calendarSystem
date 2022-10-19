@@ -1,5 +1,12 @@
 // NPM package
 @import "~normalize.css";
 
+//variables
+@import "./styles/colors.scss";
+
 //styles
 @import "./styles/header.scss";
+@import "./styles/calendar-section.scss";
+@import "./styles/filters.scss";
+@import "./styles/datePicker.scss";
+@import "./styles/timetable.scss";

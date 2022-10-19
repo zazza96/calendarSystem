@@ -1,0 +1,35 @@
+div#filter-section {
+    padding: 20px 15px;
+    display: flex;
+    div#filter-btn {
+        border: 1px solid $dark-grey;
+        border-radius: 5px;
+        padding: 10px;
+        width: 100%;
+    }
+}
+#filters {
+    margin-left: 40px;
+    .filter {
+        background-color: $yellow;
+        border: 1px solid $yellow;
+        border-radius: 5px;
+        padding: 10px;
+        padding-right: 30px;
+        margin-right: 10px;
+        margin-bottom: 15px;
+        display: inline-block;
+        text-transform: uppercase;
+        position: relative;
+        cursor: pointer;
+
+        &:last-child {
+            margin-right: 0;
+        }
+        &.active:after {
+            content: "X";
+            position: absolute;
+            right: 11px;
+        }
+    }
+}
