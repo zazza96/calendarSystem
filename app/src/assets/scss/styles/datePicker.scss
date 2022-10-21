@@ -8,9 +8,27 @@
         padding: 5px;
         font-weight: bold;
         text-align: center;
+        position: relative;
         span {
             display: block;
         }    
+    }
+}
+.date-container.selected {
+    color: $yellow;
+    &:after,&:before {
+        content: "";
+        width: 100%;
+        border: 1px solid black;
+        display: inline-block;
+        position: absolute;
+        left: 0;
+    }
+    &:after {
+        bottom: -6px;
+    }
+    &:before {
+        top: -6px;
     }
 }
 

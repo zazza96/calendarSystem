@@ -1,4 +1,5 @@
 import calendar from './calendar.json';
+import waitForElm from './waitForElm.js';
 
 export default ()=>{
     //selectors
@@ -17,9 +18,9 @@ export default ()=>{
         //loop through second level 
         for (const lesson of obj.lessons) {
             document.querySelector('.lessondate-'+thisdate).insertAdjacentHTML('beforeend',`<div class="class_container flex" data-name="${lesson.name}" data-id="${lesson.id}"><div class="class-details flex-left"><h3>${lesson.name}</h3><div class="class-time"><span><i class="fa fa-light fa-clock"></i></span><span class="time">${lesson.time}</span></div><p class="location">${lesson.location}</p></div><div class="flex-right"><div class="booking_btn-container"><button class="booking_btn">BOOK</button></div><div class="spaces"><p>${lesson.spaces} SPACES LEFT</p></div></div></div>`);
-            
         }
-        
-      }
-    console.log(calendar);
+    }
+    //first date on the list should be selected
+    document.getElementsByClassName('date-container')[0].classList.add('selected');
+    document.getElementsByClassName('thisdaysLesson')[0].classList.add('selected');
 }

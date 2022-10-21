@@ -1,6 +1,6 @@
 @mixin  circle {
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
 }
 body {
@@ -11,12 +11,12 @@ header {
     background-color: black;
     color: $yellow;
     padding: 10px 15px;
+    #page-header {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
     div#profileImage {
-        @include circle;
-        float: left;
-        .profileImageCircle {
-            @include circle;
-        }
         img.profile-image {
             @include circle;
         }
@@ -25,9 +25,10 @@ header {
     }
 
     div#logo {
-        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
         img {
-            max-width: 255px;
+            max-width: 200px;
             width: 100%;
         }
     }

@@ -5,29 +5,29 @@
         "lessons": [
             {
                 "id" : "74e972fe-381f-4e61-94d2-f4a7299e1ae3",
-                "name" : "Pilates",
-                "time" : "07.30 - 8.30",
-                "spaces": 8,
-                "location" : "Dance Studio"
+                "name" : "Boxercise",
+                "time" : "06.30 - 7.30",
+                "spaces": 12,
+                "location" : "Main Studio"
             },
             {
                 "id" : "659751d1-3df8-4121-b519-17107fe939b8",
                 "name" : "Yoga",
-                "time" : "09.45 - 11.00",
+                "time" : "09.00 - 11.00",
                 "spaces": 15,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "82d35cec-9afc-4361-b420-e72fc1e26f3b",
                 "name" : "Boxercise",
-                "time" : "10.30 - 11.30",
-                "spaces": 15,
+                "time" : "10.30 - 11.45",
+                "spaces": 17,
                 "location" : "Main Studio"
             },
             {
                 "id" : "c685a245-5f6c-4d61-aa54-3b21802cc56f",
                 "name" : "Pilates",
-                "time" : "07.30 - 8.30",
+                "time" : "12.30 - 13.30",
                 "spaces": 15,
                 "location" : "Dance Studio"
             }
@@ -41,27 +41,27 @@
                 "id" : "887f1df6-f772-49d7-995a-3a7620f1471d",
                 "name" : "Pilates",
                 "time" : "07.30 - 8.30",
-                "spaces": 8,
+                "spaces": 19,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "04dfb67f-1c22-40fc-a3ed-911c424aad66",
                 "name" : "Yoga",
                 "time" : "09.45 - 11.00",
-                "spaces": 15,
+                "spaces": 11,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "1becdd85-55e3-40b1-865f-fbe1df707514",
                 "name" : "Boxercise",
                 "time" : "10.30 - 11.30",
-                "spaces": 15,
+                "spaces": 7,
                 "location" : "Main Studio"
             },
             {
                 "id" : "3a12b371-1cf9-42bf-afeb-9f3a11feb357",
                 "name" : "Pilates",
-                "time" : "07.30 - 8.30",
+                "time" : "13.30 - 14.30",
                 "spaces": 15,
                 "location" : "Dance Studio"
             }
@@ -75,27 +75,27 @@
                 "id" : "e7978e86-166c-4066-b50d-129fd5d47029",
                 "name" : "Pilates",
                 "time" : "07.30 - 8.30",
-                "spaces": 8,
+                "spaces": 20,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "c4d547d7-9a9d-4674-bc21-9b666e76e5d2",
                 "name" : "Yoga",
                 "time" : "09.45 - 11.00",
-                "spaces": 15,
+                "spaces": 3,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "bcad084b-211d-4baa-bdf5-86befeb4ab16",
                 "name" : "Boxercise",
-                "time" : "10.30 - 11.30",
-                "spaces": 15,
+                "time" : "11.30 - 12.30",
+                "spaces": 10,
                 "location" : "Main Studio"
             },
             {
                 "id" : "42466729-4af7-4cce-bed0-97e08f673c50",
                 "name" : "Pilates",
-                "time" : "07.30 - 8.30",
+                "time" : "14.00 - 15.00",
                 "spaces": 15,
                 "location" : "Dance Studio"
             }
@@ -129,7 +129,7 @@
             {
                 "id" : "b7a0143a-769f-457e-8136-5eed4654856e",
                 "name" : "Pilates",
-                "time" : "07.30 - 8.30",
+                "time" : "17.30 - 18.30",
                 "spaces": 15,
                 "location" : "Dance Studio"
             }
@@ -156,14 +156,14 @@
             {
                 "id" : "b280d4bf-02c0-4ad7-8e1b-fb855c5a0fbe",
                 "name" : "Boxercise",
-                "time" : "10.30 - 11.30",
+                "time" : "12.30 - 13.30",
                 "spaces": 15,
                 "location" : "Main Studio"
             },
             {
                 "id" : "772701ad-db0c-4a0f-ac7e-dc760565f9cb",
                 "name" : "Pilates",
-                "time" : "07.30 - 8.30",
+                "time" : "17.30 - 18.30",
                 "spaces": 15,
                 "location" : "Dance Studio"
             }
@@ -184,20 +184,20 @@
                 "id" : "484bb2a3-1053-471f-9ac4-04d533302e72",
                 "name" : "Yoga",
                 "time" : "09.45 - 11.00",
-                "spaces": 15,
+                "spaces": 12,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "e98ec492-4025-493e-b150-d496ec7456b8",
                 "name" : "Boxercise",
                 "time" : "10.30 - 11.30",
-                "spaces": 15,
+                "spaces": 11,
                 "location" : "Main Studio"
             },
             {
                 "id" : "2fde096c-cb2a-4122-84fd-0726081814ca",
                 "name" : "Pilates",
-                "time" : "07.30 - 8.30",
+                "time" : "17.30 - 18.30",
                 "spaces": 15,
                 "location" : "Dance Studio"
             }
@@ -211,7 +211,7 @@
                 "id" : "8f2cd03c-750c-4493-baa3-014a57d0e6e0",
                 "name" : "Pilates",
                 "time" : "07.30 - 8.30",
-                "spaces": 8,
+                "spaces": 9,
                 "location" : "Dance Studio"
             },
             {
@@ -224,15 +224,15 @@
             {
                 "id" : "cdbf520e-e05b-4f2d-98e3-c4a2ed548dc1",
                 "name" : "Boxercise",
-                "time" : "10.30 - 11.30",
+                "time" : "11.30 - 12.30",
                 "spaces": 15,
                 "location" : "Main Studio"
             },
             {
                 "id" : "1be9d565-89aa-4080-91ce-37fafbb1db71",
                 "name" : "Pilates",
-                "time" : "07.30 - 8.30",
-                "spaces": 15,
+                "time" : "17.30 - 18.30",
+                "spaces": 12,
                 "location" : "Dance Studio"
             }
         ]
@@ -245,7 +245,7 @@
                 "id" : "76a91f61-3f1b-4347-92ca-789e06b2fa7f",
                 "name" : "Pilates",
                 "time" : "07.30 - 8.30",
-                "spaces": 8,
+                "spaces": 13,
                 "location" : "Dance Studio"
             },
             {
@@ -259,14 +259,14 @@
                 "id" : "c07336b4-ccbd-4604-b490-af1e99b6b5fb",
                 "name" : "Boxercise",
                 "time" : "10.30 - 11.30",
-                "spaces": 15,
+                "spaces": 19,
                 "location" : "Main Studio"
             },
             {
                 "id" : "ef8fafd3-4798-42c6-803c-42dd1477a557",
                 "name" : "Pilates",
                 "time" : "07.30 - 8.30",
-                "spaces": 15,
+                "spaces": 22,
                 "location" : "Dance Studio"
             }
         ]
@@ -313,28 +313,28 @@
                 "id" : "3d221e25-88ab-4a9b-89bd-f793b0dc9ba5",
                 "name" : "Pilates",
                 "time" : "07.30 - 8.30",
-                "spaces": 8,
+                "spaces": 10,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "af8d9bc5-8f14-48bd-9de3-ff9317cdf2ec",
                 "name" : "Yoga",
                 "time" : "09.45 - 11.00",
-                "spaces": 15,
+                "spaces": 12,
                 "location" : "Dance Studio"
             },
             {
                 "id" : "0ec73ca8-90cc-47c8-a9d1-830be9463fd1",
                 "name" : "Boxercise",
                 "time" : "10.30 - 11.30",
-                "spaces": 15,
+                "spaces": 1,
                 "location" : "Main Studio"
             },
             {
                 "id" : "b2e17a81-965b-4f2c-a528-8fcd3ebd8f9d",
                 "name" : "Pilates",
                 "time" : "07.30 - 8.30",
-                "spaces": 15,
+                "spaces": 19,
                 "location" : "Dance Studio"
             }
         ]

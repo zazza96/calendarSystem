@@ -1,18 +1,25 @@
-div#filter-section {
+#filter-section {
     padding: 20px 15px;
     display: flex;
-    div#filter-btn {
+    #filter-btn {
         border: 1px solid $dark-grey;
         border-radius: 5px;
         padding: 10px;
         width: 100%;
+        &.hiding {
+            color: white;
+            background-color: black;
+        }
     }
 }
 #filters {
     margin-left: 40px;
+    &.hide {
+        display: none;
+    }
     .filter {
-        background-color: $yellow;
-        border: 1px solid $yellow;
+        border: 1px solid $dark-grey;
+        background-color: white;
         border-radius: 5px;
         padding: 10px;
         padding-right: 30px;
@@ -25,6 +32,10 @@ div#filter-section {
 
         &:last-child {
             margin-right: 0;
+        }
+        &.active {
+            background-color: $yellow;
+            border: 1px solid $yellow;
         }
         &.active:after {
             content: "X";
